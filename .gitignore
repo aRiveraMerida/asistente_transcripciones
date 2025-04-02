@@ -1,0 +1,28 @@
+# Environment files
+.env
+
+# Virtual environments
+venv/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Logs and debug files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
